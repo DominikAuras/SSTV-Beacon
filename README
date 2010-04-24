@@ -1,0 +1,2 @@
+This is SSTV Beacon, a project using GNU Radio to transmit
+a webcam stream as SSTV signal via an amateur radio beacon station.
