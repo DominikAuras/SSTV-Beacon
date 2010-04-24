@@ -301,8 +301,7 @@ class beacon:
 
     up = uptime()
 
-    #text = "DB0LTG  JO31TB  " + up +  " uptime"
-    text = "TEST DL5KBG via DB0LTG"
+    text = "TEST " + up + " uptime"
     textsize = draw.textsize( text, font=self.myfont )
     print "textsize ", textsize
     draw.rectangle( (0,0,320,16), fill=(255,255,255) )
