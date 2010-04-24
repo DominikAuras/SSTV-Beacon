@@ -1,0 +1,13 @@
+# sstv beacon
+
+start on stopped rc2
+start on stopped rc3
+start on stopped rc4
+start on stopped rc5
+
+stop on runlevel 6
+stop on runlevel 0
+stop on runlevel 1
+
+respawn
+exec /usr/local/bin/beacon.py

@@ -1,0 +1,7 @@
+This library uses the standard Python distribution method.  To install:
+
+  python setup.py install
+
+That's all.
+
+Enjoy!

@@ -1,0 +1,232 @@
+26/04/10 Dominik Auras: changed _MAX_PITCH
+
+commit 86d2275004b978311c5155840039743418cfa2b8
+Author: Isaac Wagner <isaac@wagnerfam.com>
+Date:   Tue Jun 24 22:47:43 2008 -0400
+
+    Added *~ as an ignore pattern
+
+commit dfa98fa4d1c3d0523654f606f8a475a1c85bf9b0
+Author: Isaac Wagner <isaac@wagnerfam.com>
+Date:   Tue Jun 24 22:47:12 2008 -0400
+
+    Added copyright message
+
+commit c26319a1eea394530dbdef918a78b7de85801bbe
+Author: Isaac Wagner <isaac@wagnerfam.com>
+Date:   Tue Jun 24 22:39:43 2008 -0400
+
+    Revert "Updated ChangeLog"
+    
+    This reverts commit 52b4d429c41d430367f816cabf7ebb4ecee1e13f.
+
+commit 52b4d429c41d430367f816cabf7ebb4ecee1e13f
+Author: Isaac Wagner <isaac@wagnerfam.com>
+Date:   Tue Jun 24 22:20:03 2008 -0400
+
+    Updated ChangeLog
+
+commit aeef09b99810541bb3da6dfb7f7a18c899b1ff8f
+Author: Isaac Wagner <isaac@wagnerfam.com>
+Date:   Tue Jun 24 22:18:16 2008 -0400
+
+    Updated version to v0.5
+
+commit 6875d618d3f9b2e17c9d7c0bc9a7143fdf3ae5f6
+Author: Isaac Wagner <isaac@wagnerfam.com>
+Date:   Mon Jun 23 22:44:56 2008 -0400
+
+    Added setter method for Farnsworth speed.
+
+commit 04da08cd3c42c6ad7ac2a40f5e43607238d90488
+Author: Isaac Wagner <isaac@wagnerfam.com>
+Date:   Mon Jun 23 22:37:45 2008 -0400
+
+    Added more validation and new parameter setting methods.
+
+commit 88fa748ed57a78e4b0ec741a1b267efdda9d8d2b
+Author: Isaac Wagner <isaac@wagnerfam.com>
+Date:   Mon Jun 23 22:36:57 2008 -0400
+
+    Added the build directory to the gitignore file.
+
+commit e86c24434b2eda6d28cc2246b328506e83a2b77c
+Author: Isaac Wagner <isaac@wagnerfam.com>
+Date:   Mon Jun 23 22:36:36 2008 -0400
+
+    Updated documentation.
+
+commit 2d6682565be5402d66cb7006cd23d89b6b6b80bd
+Author: Isaac Wagner <isaac@wagnerfam.com>
+Date:   Mon Jun 23 22:35:50 2008 -0400
+
+    Added new exception.
+
+commit 4a28d36ccd4d4b725d3095cc836b574f20dbf65f
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Mon Jun 23 17:06:18 2008 -0400
+
+    Added new AUTHORS file
+
+commit 8e43648b50656834b3de3203aedb3d37b0fa9335
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Mon Jun 23 17:06:05 2008 -0400
+
+    Updated README file
+
+commit 70487765299ad015f9ae6b418cab29e89d9a5660
+Author: Isaac Wagner <isaac@wagnerfam.com>
+Date:   Sun Jun 22 23:42:46 2008 -0400
+
+    Added gitignore file
+
+commit cf10d0d17a97777d0b283cc29d35a1d803e79571
+Author: Isaac Wagner <isaac@wagnerfam.com>
+Date:   Sun Jun 22 23:37:42 2008 -0400
+
+    Added the skeleton of an audio stream callback method.
+
+commit f00a6b393ac565f4ddfc6959212816062878c0d9
+Author: Isaac Wagner <isaac@wagnerfam.com>
+Date:   Sun Jun 22 22:58:09 2008 -0400
+
+    Updated ChangeLog
+
+commit 85fbe300b93fbb77bbe979b7b65e6771a8e2f683
+Author: Isaac Wagner <isaac@wagnerfam.com>
+Date:   Sun Jun 22 22:55:54 2008 -0400
+
+    Bumped version to 0.4. Kind of a bogus version that represents the conversion from mercurial to git.
+
+commit ae55e0a9b00b9d54e68bfb8d6478151746c26ff2
+Author: Isaac Wagner <isaac@wagnerfam.com>
+Date:   Sun Jun 22 22:49:20 2008 -0400
+
+    Deleted these leftovers from the old mercurial repo.
+
+commit fa38699f3eaa7613dfe3de2e5ac9730e4a1bc7e7
+Merge: a5b2a78... 8593cef...
+Author: Isaac Wagner <isaac@wagnerfam.com>
+Date:   Sun Jun 22 22:43:31 2008 -0400
+
+    Merge ssh://isaac@iwagner-desktop/home/isaac/tmp/ditndah
+
+commit a5b2a78fb1cc54f2b941d109615cc7797fb2aa6a
+Author: Isaac Wagner <isaac@wagnerfam.com>
+Date:   Sun Jun 22 20:14:47 2008 -0400
+
+    Initial Import
+
+commit 8593cefbb15ce0bf3af1d1c6d5f2fc1e3a37d5fe
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Sat Jun 14 11:28:09 2008 -0400
+
+    Added documentation and example to text to wav method
+
+commit 7f67c32a88b1ae0c0a3123ca36d8fc935819e2fd
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Sat Jun 14 09:02:51 2008 -0400
+
+    Added script to generate epydoc documentation
+
+commit 8c7e74d83f5a09505d4d11a59ec180cc7c1420f0
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Sat Jun 14 09:00:23 2008 -0400
+
+    Updated ChangeLog
+
+commit fdc13b199aecb5eb4aa0470b1777ef465522486e
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Sat Jun 14 08:59:34 2008 -0400
+
+    Added usage information.
+
+commit 85675aca1a997b5778f1a58db4a464a24a674b96
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Wed Jun 11 14:59:21 2008 -0400
+
+    Added some (simple) text to INSTALL and README
+
+commit f7dd6ebabfeb0cfdc19d69fd278f58fc7ac289a6
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Wed Jun 11 13:29:57 2008 -0400
+
+    Added tag v0.3.1 for changeset 50d04a07c9af
+
+commit e1fc7e5442ccbe90c23e88cfb0938dad9d473368
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Wed Jun 11 13:29:37 2008 -0400
+
+    Bumped version to 0.3.1
+
+commit a2a37dabc8d2de8a3ab5694af0dd01bb9c1238eb
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Wed Jun 11 13:28:09 2008 -0400
+
+    Fixed bug where it was printing out the whole dit data and added ChangeLog
+
+commit 21e1aad9ec4d667b01d4cb203638dec761d643a4
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Tue Jun 10 12:50:30 2008 -0400
+
+    Added tag v0.3 for changeset 23c788873b33
+
+commit 6c82558ac956b916bcb53fe8f2027ad41eef1288
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Tue Jun 10 12:50:24 2008 -0400
+
+    Renamed library and updated to v0.3
+
+commit abe93fd7503773469c3d804253739d2a1a659f4f
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Tue Jun 10 12:37:27 2008 -0400
+
+    Added tag v0.2 for changeset 4c7e8fda4a73
+
+commit ef31eaca36717989e68c2d56067c0207b2ddd17b
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Tue Jun 10 12:37:20 2008 -0400
+
+    Finished adding support for all the formats and incremented version to 0.2
+
+commit e069ebfd5e0c4305e413243cc7763b721fabbe44
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Mon Jun 9 14:24:36 2008 -0400
+
+    Finished the data generation routines
+
+commit 76683e51e988183e2b1d79bb7de08d9d7a3ca1da
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Sat Jun 7 23:20:23 2008 -0400
+
+    Renaming library and moving stuff again.
+
+commit 032bbd2855b1564cb65d90d9b36b4a202d9b2af6
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Sat Jun 7 23:00:32 2008 -0400
+
+    Moving stuff around
+
+commit d251fa52dfd4f86ffc899407dcf2c2df59a70b50
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Sat Jun 7 08:41:33 2008 -0400
+
+    Added exceptions classes
+
+commit 72b05975909fc5c909c5e4d6b824dfdfc17e097c
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Sat Jun 7 08:41:12 2008 -0400
+
+    Working on conversion to proper python package
+
+commit 5832633dd24f7f21c8c8e89b42e3c938c63eb5df
+Author: Isaac E. Wagner <isaac@wagnerfam.com>
+Date:   Sat Jun 7 08:26:43 2008 -0400
+
+    Added hgignore file
+
+commit 2eb5fcd363357008c7d3394768d68fe6c519c472
+Author: Isaac E. Wagner <isaac.wagner@ecitele.com>
+Date:   Wed Jun 4 19:17:33 2008 -0400
+
+    Initial Import
